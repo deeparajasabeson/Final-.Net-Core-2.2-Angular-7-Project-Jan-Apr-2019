@@ -1,0 +1,14 @@
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\DomainModels.dll
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\DomainModels.pdb
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\Repository\bin\Debug\netcoreapp2.2\ApplicationCore.dll.config

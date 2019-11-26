@@ -1,0 +1,32 @@
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+  <div class="container">
+    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Shopping Site</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse d-sm-inline-flex">
+      <ul class="navbar-nav flex-grow-1">
+        <li class="nav-item">
+          <a class="nav-link text-dark" [routerLink]="['/']">Home</a>
+        </li>
+      </ul>
+
+      <ul class="navbar-nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link text-dark btn btn-warning" [routerLink]="['/cart']" *ngIf="cart.Total > 0"><b>In-Cart:{{ cart.TotalItems }} Item<span *ngIf="cart.TotalItems > 1">s</span>,{{ cart.Total | currency: 'INR' }} </b></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/Account/SignUp">Sign-Up</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/Account/Login">Login</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>

@@ -1,0 +1,8 @@
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\bin\Debug\netcoreapp2.2\DomainModels.deps.json
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\bin\Debug\netcoreapp2.2\DomainModels.dll
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\obj\Debug\netcoreapp2.2\DomainModels.AssemblyInfoInputs.cache
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\obj\Debug\netcoreapp2.2\DomainModels.AssemblyInfo.cs
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\bin\Debug\netcoreapp2.2\DomainModels.pdb
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\obj\Debug\netcoreapp2.2\DomainModels.dll
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\obj\Debug\netcoreapp2.2\DomainModels.pdb
+C:\Deepa\Learning\AspNetCore\DotNetTricks\FinalProjectCoreAngular\DomainModels\obj\Debug\netcoreapp2.2\DomainModels.csprojAssemblyReference.cache
